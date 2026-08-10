@@ -1,4 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
+  "VITE_DEPLOYMENT_ENV": "mainnet",
   "VITE_ORDERLY_BROKER_ID": "navigator",
   "VITE_ORDERLY_BROKER_NAME": "Navigator",
   "VITE_BROKER_EOA_ADDRESS": "0xbe821f78d4cb1955c4634a8d0dbbe2b952eb37a5",
@@ -18,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Trade crypto perpetuals on Navigator — a fast, decentralized trading experience powered by Orderly Network.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Swap,Points",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Swap",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
