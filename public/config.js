@@ -28,7 +28,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/NaviExSonic",
   "VITE_SEO_SITE_NAME": "Navigator",
   "VITE_SEO_SITE_DESCRIPTION": "Trade crypto perpetuals on Navigator — a fast, decentralized trading experience powered by Orderly Network.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/dex-navigator-5ff61917/",
+  "VITE_SEO_SITE_URL": "https://app.navigator.exchange",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@NaviExSonic",
